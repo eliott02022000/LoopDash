@@ -1,0 +1,15 @@
+.block {
+    width: 20px;
+    height: 20px;
+    background-color: red;
+}
+
+td {
+    cursor: pointer;
+}
+
+.gettd td {
+    margin: 10px;
+    width: 40px;
+    height: 40px;
+}
